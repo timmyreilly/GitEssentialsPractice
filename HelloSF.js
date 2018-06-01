@@ -13,4 +13,5 @@ y.forEach((item) => console.log(item));
 
 var x ="Another random thing";
 
+x = 'SOMETHING'; 
 
