@@ -10,3 +10,4 @@ var e = "Random thing."
 var y = [1,2,3,4]
 y.forEach((item) => console.log(item)); 
 
+
