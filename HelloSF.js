@@ -1,3 +1,4 @@
+
 console.log("Bienvenidos a San Francisco"); 
 
 
@@ -6,5 +7,7 @@ x.forEach((item) => {console.log(item)});
 
 var x = "I thought the future would be cooler - why aren't there flying cars yet?";
 
-var y = "please help"
+var e = "Random thing."
+var y = [1,2,3,4]
+y.forEach((item) => console.log(item)); 
 
